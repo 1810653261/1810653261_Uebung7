@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f779216d-4716-4ab0-9d7c-017e379ddcc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe3/Aufgabe3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe5/Exceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aufgabe3/Emailchecking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aufgabe3/eigeneException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe4/Aufgabe4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe5/Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe5/Exceptions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,22 +25,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="iml" value="1" />
           <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1006" />
+          <entry key="java" value="1307" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1006" />
+          <entry key="JAVA" value="1307" />
         </counts>
       </usages-collector>
     </session>
@@ -61,29 +61,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Aufgabe4/Aufgabe4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Aufgabe5/Exceptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="119">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aufgabe3/Aufgabe3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="459">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/Aufgabe3/Emailchecking.java" />
         <option value="$PROJECT_DIR$/src/Aufgabe4/Aufgabe4.java" />
         <option value="$PROJECT_DIR$/src/Aufgabe3/Aufgabe3.java" />
+        <option value="$PROJECT_DIR$/src/Aufgabe5/Exceptions.java" />
       </list>
     </option>
   </component>
@@ -149,6 +144,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Aufgabe2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Hausaufgabe 7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hausaufgabe 7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Aufgabe3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hausaufgabe 7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hausaufgabe 7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Aufgabe5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -159,7 +166,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547581669097" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547582893740" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -224,12 +231,12 @@
       <option name="presentableId" value="Default" />
       <updated>1547567749884</updated>
       <workItem from="1547567753651" duration="3440000" />
-      <workItem from="1547580929105" duration="739000" />
+      <workItem from="1547580929105" duration="1962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4179000" />
+    <option name="totallyTimeSpent" value="5402000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -281,23 +288,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Aufgabe4/Aufgabe4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aufgabe2/Zahleneingabe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Aufgabe3/Emailchecking.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -319,17 +309,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aufgabe5/Exceptions.java">
+    <entry file="file://$PROJECT_DIR$/src/Aufgabe3/Aufgabe3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="459">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aufgabe3/Aufgabe3.java">
+    <entry file="file://$PROJECT_DIR$/src/Aufgabe4/Aufgabe4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="51">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hausaufgabe 7.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aufgabe2/Zahleneingabe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aufgabe5/Exceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
